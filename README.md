@@ -1,5 +1,5 @@
 # Data-Mining-Project
-This project is developed in a Jupyter Notebook. University project and received 95% overall mark.
+This project is developed in a Jupyter Notebook. This is an University project and received 95% overall mark.
 ## Requirements
 This coursework provides assessed practical experience in handling a data-mining project
 using industry tooling for legacy data. The Data provided as part of this assessment is from
